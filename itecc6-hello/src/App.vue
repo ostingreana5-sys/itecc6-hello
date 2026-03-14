@@ -3,6 +3,7 @@
     <h1>Hello! My name is Reana A Osting</h1>
     <p>Welcome to ITECC6!</p>
     <p>BSINTE 3A</p>
+    <p>Vue.js + Vite Project</p>
     </div>
 </template>
 
